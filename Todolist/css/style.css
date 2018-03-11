@@ -1,0 +1,13 @@
+#container{
+    width: 500px;
+    margin:100px auto;
+}
+li,ul{
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+.done{
+    color:#ccc;
+    text-decoration:line-through;
+}
